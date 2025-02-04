@@ -35,3 +35,6 @@ function App() {
 }
 
 export default App;
+
+// https://github.com/ReactNativeNews/React-Native-Apps?tab=readme-ov-file
+// https://thecodingmachine.github.io/react-native-boilerplate/docs/installation
